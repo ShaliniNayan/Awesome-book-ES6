@@ -25,24 +25,25 @@
 
 # 📖 [Awesome-Books] <a name="about-project"></a>
 
-**[]** Is a simple project that compounds of a webpage (home and about page) for a fictional sports event conference set to take place in Delhi, India and basically it contains information about the conference ie speakers,program and about the organisation behind the whole meeting.Here is a brief video of how it looks on both the desktop and mobile. https://www.loom.com/share/4c80a71dd58142cf8a60f4ca1c6ed26d
+**[]** Is a simple project book storing app.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 - HTML.
 - CSS.
 - JS
+- ES6
 
 ### Key Features <a name="key-features"></a>
 
-- **[mobile version]**
-- **[Desktop version]**
+<!-- - **[mobile version]**
+- **[Desktop version]** -->
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://shalininayan.github.io/Awesome-Books/)
+- [Live Demo Link](coming soon...)
 
 <!-- GETTING STARTED -->
 
@@ -57,6 +58,7 @@ In order to run this project you need:
 - vscode.
 - git.
 - Knowledge on HTML and CSS.
+- Knowledge og JS
 
 ### Setup
 
@@ -64,7 +66,8 @@ Clone this repository to your desired folder:
 
 Navigate to the directory where you want to clone this project with your terminal.
 Clone this repository using the following commands:
-`git clone  https://shalininayan.github.io/Awesome-Books/`
+
+<!-- `git clone  https://` -->
 
 ### Install
 
@@ -97,11 +100,9 @@ Run it in your local server.
 ## 🔭 Future Features <a name="future-features"></a>
 
 - Creating and linking consequent pages namely:
-  - Sponser
-  - Join
-  - News
-  - campaign
-- Adding animations to the site so that the site is more engaging.
+  - List
+  - Add
+  - Contact
 
 <!-- CONTRIBUTING -->
 
@@ -121,7 +122,6 @@ Run it in your local server.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- I would like appreciate Cindy Shin in Behance for the brilliant design that maps the base of this project.
 - would also like to thank microverse for issuing this project to the students.
 
 <!-- LICENSE -->
