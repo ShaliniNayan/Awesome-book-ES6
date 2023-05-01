@@ -25,7 +25,7 @@ export function isStorageAvailable(type) {
 export const bookList = document.querySelector('.book-list');
 
 // Classes
-export default class BookCollection {
+export default class Bookshelf {
   constructor(books) {
     this.books = books;
   }
