@@ -8,10 +8,8 @@
 :root {
   --font-family: "Poppins", sans-serif;
   --font-family-styled: "Sacramento", cursive;
-  --Box-shadow-outside: -5px -5px 20px rgba(255, 255, 255, 0.849),
-    5px 5px 9px rgba(78, 91, 114, 0.3);
-  --Box-shadow-inside: inset -5px -5px 9px rgba(255, 255, 255, 0.647),
-    inset 5px 5px 9px rgba(94, 104, 121, 0.3);
+  --Box-shadow-outside: -5px -5px 20px white, 5px 5px 9px rgba(78, 91, 114, 0.3);
+  --Box-shadow-inside: inset -5px -5px 9px rgba(63, 55, 55, 0.647), inset 5px 5px 9px rgba(94, 104, 121, 0.3);
 }
 
 html {
